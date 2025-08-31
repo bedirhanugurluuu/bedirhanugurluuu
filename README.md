@@ -24,6 +24,7 @@ Kendi projelerimde ise **React, Next.js, Node.js (Express.js)** ve farklı moder
   <img src="https://raw.githubusercontent.com/vercel/vercel/main/packages/frameworks/logos/next.svg" height="40" />
   <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" height="40" />
 </p>
+
 ---
 
 ## 🌍 Bağlantılar
