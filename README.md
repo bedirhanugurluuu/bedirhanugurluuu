@@ -1,5 +1,5 @@
 # <center> Bedirhan Uğurlu <a href="https://github.com/bedirhanugurluuu" target="_blank">GitHub</a> </center>
-<hr>
+<hr> 
 
 <p>
 Merhaba 👋  
